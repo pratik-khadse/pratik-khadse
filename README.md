@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pratik Khadse</h1>
-<h3 align="center">A Data Science Professional and a Data-Driven Problem Solver. My background includes key facets of optimization, data modeling and machine learning skills to effectively deliver under challenging timelines and bring out productive insights.</h3>
+<h1 align="center">Hi 👋, I'm Pratik</h1>
+<h3 align="center">I'm a Data Science Professional and a Data-Driven Problem Solver. My background includes key facets of optimization, data modeling and machine learning skills to effectively deliver under challenging timelines and bring out productive insights.</h3>
 
 - 🔭 I’m currently working on **NLP Projects**
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Machine Learning, Statistics and Data Visualization**
 
-- 📫 How to reach me **pkhadse@marshall.usc.edu**
+- 📫 Reach me at **pkhadse@marshall.usc.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LSPrHYxmtMKzPyd_eInf-ssOnU1FtjlQ/view?usp=sharing](https://drive.google.com/file/d/1LSPrHYxmtMKzPyd_eInf-ssOnU1FtjlQ/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1LSPrHYxmtMKzPyd_eInf-ssOnU1FtjlQ/view?usp=sharing](https://drive.google.com/file/d/1LSPrHYxmtMKzPyd_eInf-ssOnU1FtjlQ/view?usp=sharing)
 
 - ⚡ Fun fact **I like to read a variety of materials: books, articles, editorials, even comics and japanese mangas**
 
