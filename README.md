@@ -4,7 +4,7 @@
 - 🔭 I’m interested in **ML, NLP and Causal Inference** projects
 
 - 🌱 I’m currently working as **Sr Data Analyst** and hold a **Master of Science in Business Analytics**
-- 
+  
 - 👨‍💻 All of my projects are available at [https://github.com/pratik-khadse](https://github.com/pratik-khadse)
 
 - 💬 Ask me about **Machine Learning, Statistics and Data Visualization**
