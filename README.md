@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">I'm a Data Science Professional and a Data-Driven Problem Solver. My background includes key facets of optimization, data modeling and machine learning skills to effectively deliver under challenging timelines and bring out productive insights.</h3>
 
-- 🔭 I’m currently working on **NLP Projects**
+- 🔭 I’m interested in **ML, NLP and Causal Inference** projects
 
-- 🌱 I’m currently pursuing **MS in Business Analytics at USC Marshall School of Business**
-
+- 🌱 I’m currently working as **Sr Data Analyst** and hold a **Master of Science in Business Analytics**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/pratik-khadse](https://github.com/pratik-khadse)
 
 - 💬 Ask me about **Machine Learning, Statistics and Data Visualization**
 
-- 📫 Reach me at **pkhadse@marshall.usc.edu**
+- 📫 Reach me at **pratik.khadse.255@gmail.com**
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1LSPrHYxmtMKzPyd_eInf-ssOnU1FtjlQ/view?usp=sharing](https://drive.google.com/file/d/1LSPrHYxmtMKzPyd_eInf-ssOnU1FtjlQ/view?usp=sharing)
 
-- ⚡ Fun fact **I like to read a variety of materials: books, articles, editorials, even comics and japanese mangas**
+- ⚡ Fun fact **I like to read a variety of materials: books, articles, editorials, even comics, and japanese mangas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
