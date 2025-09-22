@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1LSPrHYxmtMKzPyd_eInf-ssOnU1FtjlQ/view?usp=sharing](https://drive.google.com/file/d/1LSPrHYxmtMKzPyd_eInf-ssOnU1FtjlQ/view?usp=sharing)
 
-- ⚡ Fun fact **I like to read a variety of materials: books, articles, editorials, even comics, and japanese mangas**
+- ⚡ Fun fact **I like to read a variety of materials: books, articles, editorials, even comics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
